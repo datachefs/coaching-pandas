@@ -1,5 +1,6 @@
 # coaching-pandas
-<img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg" height="100"><br/>
+<object type="image/svg+xml" data="http://beej.us/graffiti/archive/pandagun/pandagun.svg"></object>
+<br/>
 Notes, links, IPython notebooks for coaching someone how to analyze data using pandas and IPython notebook
 
 NOTE: for now, just dumping my notes and links right here; clean it up later.
