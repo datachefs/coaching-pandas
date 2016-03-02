@@ -55,4 +55,5 @@ Interesting news on Salesforce acquiring machine learning startup: http://exithu
 Payout sensitivity to performance using IPython - Incentius: http://incentius.com/blog-posts/ipython-sensitivity-of-payout-to-sales-performance/
 
 An interview with "Box Plots for Education" winner Quoc Le (data sci at Salesforce): http://blog.drivendata.org/2015/02/26/box-plots-winner-interview-quoc-le/
+
 <br/><img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg">
