@@ -4,25 +4,22 @@ Notes, links, IPython notebooks for coaching someone how to analyze data using p
 NOTE: for now, just dumping my notes and links right here; clean it up later.
 
 ## Installing, Getting Set up
-<ul><li> Anaconda</li>
-<li>Jypter vs IPython</li>
-<li>Getting IPython set up (homework down the line:  figuring out best way to launch stuff)</li></ul>
+Anaconda
 
+Jupyter vs IPython
 
-## This is a test
+Getting IPython set up -- and down the line, figuring out how to launch stuff
+
 
 ## Basics
-here we go
-## Basic 2
 
-## Basics
-<ul><li>Reading in a file</li>
-<li> How to do calculations</li>
-<li> how to recode something</li>
-<li> The  <a href="http://pandas.pydata.org/pandas-docs/stable/">pandas documentation</a> and how to read it</li>
-<li> Debugging Basics: how to read the Python/pandas error message</li>
-</ul>
+Reading a file
 
+How to do calculations, recoding
+
+The pandas documentation and how to read it: http://pandas.pydata.org/pandas-docs/stable/
+
+Debugging Basics: how to read the Python/pandas error message
 
 
 ## Using Bokeh
