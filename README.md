@@ -9,7 +9,13 @@ NOTE: for now, just dumping my notes and links right here; clean it up later.
 <li>Getting IPython set up (homework down the line:  figuring out best way to launch stuff)</li></ul>
 
 
-## Basics 
+## This is a test
+
+## Basics
+here we go
+## Basic 2
+
+## Basics
 <ul><li>Reading in a file</li>
 <li> How to do calculations</li>
 <li> how to recode something</li>
