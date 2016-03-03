@@ -9,7 +9,7 @@ NOTE: for now, just dumping my notes and links right here; clean it up later.
 <li>Getting IPython set up (homework down the line:  figuring out best way to launch stuff)</li></ul>
 
 
-## Basics
+## Basics 
 <ul><li>Reading in a file</li>
 <li> How to do calculations</li>
 <li> how to recode something</li>
@@ -58,7 +58,6 @@ Payout sensitivity to performance using IPython - Incentius: http://incentius.co
 
 An interview with "Box Plots for Education" winner Quoc Le (data sci at Salesforce): http://blog.drivendata.org/2015/02/26/box-plots-winner-interview-quoc-le/
 
-<br/><img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg">
 
 
 ## Building Sustainable Infrastructure
@@ -71,3 +70,7 @@ Creating a GitHub account
 Building a rep
 <ul><li>If documentation is lousy, if not enough examples, easy way to get involved -- same thing for creating beginning tutorials</li>
 </ul>
+
+
+
+<br/><img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg">
