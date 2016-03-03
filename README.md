@@ -13,7 +13,9 @@ NOTE: for now, just dumping my notes and links right here; clean it up later.
 <ul><li>Reading in a file</li>
 <li> How to do calculations</li>
 <li> how to recode something</li>
-<li> The  <a href="http://pandas.pydata.org/pandas-docs/stable/">pandas documentation</a> and how to read it</li></ul>
+<li> The  <a href="http://pandas.pydata.org/pandas-docs/stable/">pandas documentation</a> and how to read it</li>
+<li> Debugging Basics: how to read the Python/pandas error message</li>
+</ul>
 
 
 
@@ -57,3 +59,15 @@ Payout sensitivity to performance using IPython - Incentius: http://incentius.co
 An interview with "Box Plots for Education" winner Quoc Le (data sci at Salesforce): http://blog.drivendata.org/2015/02/26/box-plots-winner-interview-quoc-le/
 
 <br/><img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg">
+
+
+## Building Sustainable Infrastructure
+Building Code/Processes That Degrade Gracefully
+
+
+## Building your Voice
+Creating a GitHub account
+
+Building a rep
+<ul><li>If documentation is lousy, if not enough examples, easy way to get involved -- same thing for creating beginning tutorials</li>
+</ul>
