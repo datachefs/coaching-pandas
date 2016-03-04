@@ -12,6 +12,7 @@ Getting IPython set up -- and down the line, figuring out how to launch stuff
 
 
 ## Basics
+My little pandas cookbook: http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
 
 Reading a file
 
@@ -19,7 +20,7 @@ How to do calculations, recoding
 
 The pandas documentation and how to read it: http://pandas.pydata.org/pandas-docs/stable/
 
-Debugging Basics: how to read the Python/pandas error message
+Debugging Basics: how to read the Python/pandas error message</li>
 
 
 ## Using Bokeh
