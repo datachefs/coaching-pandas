@@ -33,9 +33,11 @@ Homework: grid plots and other layouts (aka something you can’t do in Excel w/
 http://bokeh.pydata.org/en/0.11.0/docs/user_guide/layout.html
 
 
-## Turning An IPython Notebook into a Slideshow
-http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#6.-Turning-Your-Jupyter-Notebook-into-a-Slideshow
+## Using IPython Notebook for Slides and presentations
 
+Turning An IPython Notebook into a Slideshow  http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#6.-Turning-Your-Jupyter-Notebook-into-a-Slideshow
+
+How to make polished Jupyter presentations with optional code visibility  http://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/
 
 ## Some Newer pandas Tutorials
 Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology/
