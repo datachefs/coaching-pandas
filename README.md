@@ -12,15 +12,15 @@ Getting IPython set up -- and down the line, figuring out how to launch stuff
 
 
 ## Basics
-My little pandas cookbook: http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
 
-Reading a file
+Tutorial:  Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology-lesson/
 
-How to do calculations, recoding
+Tutorial:  Julia Evans' Lessons/Cookbook:  https://github.com/jvns/pandas-cookbook/blob/master/README.md
+
+My little pandas cookbook (a little out of date): http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
 
 The pandas documentation and how to read it: http://pandas.pydata.org/pandas-docs/stable/
 
-Debugging Basics: how to read the Python/pandas error message</li>
 
 
 ## Using Bokeh
@@ -39,8 +39,7 @@ Turning An IPython Notebook into a Slideshow  http://jupyter.cs.brynmawr.edu/hub
 
 How to make polished Jupyter presentations with optional code visibility  http://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/
 
-## Some Newer pandas Tutorials
-Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology/
+## Some More Complex pandas Tutorials
 
 How to work with large JSON datasets using Python and Pandas:
 https://www.dataquest.io/blog/using-json-data-in-pandas/
