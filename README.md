@@ -2,10 +2,10 @@
 Links, notes for coaching someone in using pandas and Jupyter (quick-and-dirty notes dump with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting).
 
 ## Installing, Getting Set up
-Needs links to:
-- Anaconda
-- Jupyter vs IPython
-- Getting Jupyter set up -- and down the line, figuring out how to launch stuff
+- The best way to get Jupyter, pandas, Python, Bokeh, plus a lot of other data science goodies: download [Anaconda](https://www.continuum.io/downloads)
+- Jupyter: main [website](http://jupyter.org/), [documentation](http://jupyter.readthedocs.io/en/latest/index.html)
+- IPython: [website](https://ipython.org/), [documentation](http://ipython.readthedocs.io/en/stable/), sample notebook [gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+- WRITE UP: Getting Jupyter set up -- and down the line, figuring out how to launch stuff
 
 
 ## Pandas Basics
@@ -13,7 +13,7 @@ Needs links to:
   - [Data Carpentry Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
   - Julia Evans' [Lessons/Cookbook](https://github.com/jvns/pandas-cookbook/blob/master/README.md)
   - My [little pandas cookbook](http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb)  (a little out of date)
-  - Tom Augspurger's [Modern Pandas](http://tomaugspurger.github.io/modern-1.html)  (plus a pandas [talk](https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be) by Tom)
+  - Tom Augspurger's [Modern Pandas](http://tomaugspurger.github.io/modern-1.html) -- especially [method chaining](http://tomaugspurger.github.io/method-chaining.html). See also his YouTube [tutorial talk](https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be)
 - pandas [documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
 
