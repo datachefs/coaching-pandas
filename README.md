@@ -1,7 +1,5 @@
 # coaching-pandas
-Notes, links, IPython notebooks for coaching someone how to analyze data using pandas and IPython notebook
-
-NOTE: for now, just dumping my notes and links right here; clean it up later.
+Notes, links, IPython notebooks for coaching someone how to analyze data using pandas and IPython notebook; quick-and-dirty dump of notes + links using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) formatting.
 
 ## Installing, Getting Set up
 Needs links to:
@@ -10,14 +8,14 @@ Needs links to:
 - Getting IPython set up -- and down the line, figuring out how to launch stuff
 
 
-## Basics
+## Pandas Basics
 - Tutorial:  Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology-lesson/
 - Tutorial:  Julia Evans' Lessons/Cookbook:  https://github.com/jvns/pandas-cookbook/blob/master/README.md
 - My little pandas cookbook (a little out of date): http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
 - The pandas documentation and how to read it: http://pandas.pydata.org/pandas-docs/stable/
 - Tom Augspurger's Modern Pandas:  http://tomaugspurger.github.io/modern-1.html  (plus a talk by Tom:  https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be)
 
-## Tricky Bits
+## The Tricky Bits
 Need links for:
 - What if my data has funny characters in it (common when pulling data from a Microsoft environment)
 - Fixing dates -- especially when dealing with data from Excel
@@ -33,16 +31,11 @@ Need links for:
 - Turning An IPython Notebook into a Slideshow  http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#6.-Turning-Your-Jupyter-Notebook-into-a-Slideshow
 - How to make polished Jupyter presentations with optional code visibility  http://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/
 
-
-## Salesforce
-- Pulling data from Salesforce using I Python notebook: https://plot.ly/python/salesforce/
-- Using Pandas and Python to Import Data into Salesforce: https://medium.com/@AnnaCrotty2/using-pandas-and-python-to-import-data-into-salesforce-118f39cd718b#.4n97tzgkk
-- How to use Bulk Api in python - Salesforce Developer Community: https://developer.salesforce.com/forums/?id=906F0000000MH43IAG
-- Update Records with Python and the Salesforce Bulk API – Wade Wegner: http://www.wadewegner.com/2014/04/update-records-with-python-and-the-salesforce-bulk-api/
-- Interesting news on Salesforce acquiring machine learning startup: http://exithub.com/salesforce-acquires-open-source-machine-learning-startup-predictionio/
+## Working With Other Systems such as Salesforce
+- Salesforce: [pullling Salesforce data](https://plot.ly/python/salesforce/), [loading data](https://medium.com/@AnnaCrotty2/using-pandas-and-python-to-import-data-into-salesforce-118f39cd718b#.4n97tzgkk) into Salesforce, bulk updating records](http://www.wadewegner.com/2014/04/update-records-with-python-and-the-salesforce-bulk-api/) (uses the [Bulk API](https://developer.salesforce.com/forums/?id=906F0000000MH43IAG))
 
 
-## A Few Tutorials for Fancier Analysis
+## A Few Tutorials on Fancier Analysis
 -Payout sensitivity to performance using IPython - Incentius: http://incentius.com/blog-posts/ipython-sensitivity-of-payout-to-sales-performance/
 - An interview with "Box Plots for Education" winner Quoc Le (data sci at Salesforce): http://blog.drivendata.org/2015/02/26/box-plots-winner-interview-quoc-le/
 
@@ -55,23 +48,6 @@ Need links for:
 -  Links for Creating a GitHub account
 - Building a rep:  for ex, If documentation is lousy, if not enough examples, easy way to get involved -- same thing for creating beginning tutorials
 
-# TEST: 
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 <br/><img src="http://beej.us/graffiti/archive/pandagun/pandagun.svg">
