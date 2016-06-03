@@ -10,10 +10,10 @@ Needs links to:
 
 ## Pandas Basics
 - Tutorials
--- [Data Carpentry Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
--- Julia Evans' [Lessons/Cookbook](https://github.com/jvns/pandas-cookbook/blob/master/README.md)
--- My [little pandas cookbook](http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb)  (a little out of date)
--- Tom Augspurger's [Modern Pandas](http://tomaugspurger.github.io/modern-1.html)  (plus a pandas [talk](https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be) by Tom)
+  - [Data Carpentry Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
+  - Julia Evans' [Lessons/Cookbook](https://github.com/jvns/pandas-cookbook/blob/master/README.md)
+  - My [little pandas cookbook](http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb)  (a little out of date)
+  - Tom Augspurger's [Modern Pandas](http://tomaugspurger.github.io/modern-1.html)  (plus a pandas [talk](https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be) by Tom)
 - pandas [documentation](http://pandas.pydata.org/pandas-docs/stable/)
 
 
