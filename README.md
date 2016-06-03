@@ -13,13 +13,14 @@ Getting IPython set up -- and down the line, figuring out how to launch stuff
 
 ## Basics
 
-Tutorial:  Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology-lesson/
-
-Tutorial:  Julia Evans' Lessons/Cookbook:  https://github.com/jvns/pandas-cookbook/blob/master/README.md
-
-My little pandas cookbook (a little out of date): http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
+- Tutorial:  Data Carpentry Python for Ecologists: http://www.datacarpentry.org/python-ecology-lesson/
+- Tutorial:  Julia Evans' Lessons/Cookbook:  https://github.com/jvns/pandas-cookbook/blob/master/README.md
+- My little pandas cookbook (a little out of date): http://nbviewer.jupyter.org/github/aschneiderman/cookbook-notes/blob/master/cookbook/Pandas_4_Excel_Users.ipynb
 
 The pandas documentation and how to read it: http://pandas.pydata.org/pandas-docs/stable/
+
+Tom Augspurger's Modern Pandas:  http://tomaugspurger.github.io/modern-1.html
+(plus a talk by Tom:  https://www.youtube.com/watch?v=otCriSKVV_8&feature=youtu.be)
 
 
 
